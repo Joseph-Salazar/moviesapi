@@ -53,90 +53,55 @@ namespace Distributed.Services.Migrations
                     b.ToTable("Audits");
                 });
 
-            modelBuilder.Entity("Domain.MainModule.Entity.Company", b =>
+            modelBuilder.Entity("Domain.MainModule.Entity.Genre", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<string>("BannerPicture")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("CompanyName")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<byte[]>("PasswordHash")
-                        .IsRequired()
-                        .HasColumnType("longblob");
-
-                    b.Property<byte[]>("PasswordSalt")
-                        .IsRequired()
-                        .HasColumnType("longblob");
-
-                    b.Property<string>("ProfilePicture")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<int>("RoleId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("WebsiteUrl")
+                    b.Property<string>("GenreName")
                         .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("RoleId");
-
-                    b.ToTable("Companies");
+                    b.ToTable("Genre");
                 });
 
-            modelBuilder.Entity("Domain.MainModule.Entity.JobLabel", b =>
+            modelBuilder.Entity("Domain.MainModule.Entity.Movie", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<string>("Label")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("JobLabels");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.JobOffer", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int>("Budget")
                         .HasColumnType("int");
 
-                    b.Property<string>("BannerPicture")
+                    b.Property<string>("HomePage")
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<int>("CompanyId")
+                    b.Property<string>("MovieStatus")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Overview")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<float>("Popularity")
+                        .HasColumnType("float");
+
+                    b.Property<DateTime>("ReleaseDate")
+                        .HasColumnType("datetime");
+
+                    b.Property<long>("Revenue")
+                        .HasColumnType("bigint");
+
+                    b.Property<int>("RunTime")
                         .HasColumnType("int");
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<bool>("HasHired")
-                        .HasColumnType("tinyint(1)");
-
-                    b.Property<string>("Snippet")
+                    b.Property<string>("TagLine")
                         .IsRequired()
                         .HasColumnType("longtext");
 
@@ -144,277 +109,45 @@ namespace Distributed.Services.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<double>("Wage")
-                        .HasColumnType("double");
+                    b.Property<float>("VoteAverage")
+                        .HasColumnType("float");
 
-                    b.HasKey("Id");
-
-                    b.HasIndex("CompanyId");
-
-                    b.ToTable("JobOffers");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Postulant", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<string>("About")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("BannerPicture")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("FirstName")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Languages")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("LastName")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<byte[]>("PasswordHash")
-                        .IsRequired()
-                        .HasColumnType("longblob");
-
-                    b.Property<byte[]>("PasswordSalt")
-                        .IsRequired()
-                        .HasColumnType("longblob");
-
-                    b.Property<int>("PhoneNumber")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ProfilePicture")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<int>("RoleId")
-                        .HasColumnType("int");
-
-                    b.Property<double>("Salary")
-                        .HasColumnType("double");
-
-                    b.Property<string>("Skills")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("StudyCenter")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("WorkingPlaces")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("RoleId");
-
-                    b.ToTable("Postulants");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Postulation", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<bool>("IsCompleted")
-                        .HasColumnType("tinyint(1)");
-
-                    b.Property<int>("JobOfferId")
+                    b.Property<int>("VoteCount")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("JobOfferId");
-
-                    b.ToTable("Postulations");
+                    b.ToTable("Movie");
                 });
 
-            modelBuilder.Entity("Domain.MainModule.Entity.Role", b =>
+            modelBuilder.Entity("GenreMovie", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int>("GenresId")
                         .HasColumnType("int");
 
-                    b.Property<string>("RoleName")
-                        .IsRequired()
-                        .HasColumnType("longtext");
+                    b.Property<int>("MoviesId")
+                        .HasColumnType("int");
 
-                    b.HasKey("Id");
+                    b.HasKey("GenresId", "MoviesId");
 
-                    b.ToTable("Roles");
+                    b.HasIndex("MoviesId");
+
+                    b.ToTable("GenreMovie");
                 });
 
-            modelBuilder.Entity("Domain.MainModule.Entity.SavedJobOffers", b =>
+            modelBuilder.Entity("GenreMovie", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<int>("JobOfferId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("PostulantId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("JobOfferId");
-
-                    b.HasIndex("PostulantId");
-
-                    b.ToTable("SavedJobOffers");
-                });
-
-            modelBuilder.Entity("JobLabelJobOffer", b =>
-                {
-                    b.Property<int>("JobLabelsId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("JobOffersId")
-                        .HasColumnType("int");
-
-                    b.HasKey("JobLabelsId", "JobOffersId");
-
-                    b.HasIndex("JobOffersId");
-
-                    b.ToTable("JobLabelJobOffer");
-                });
-
-            modelBuilder.Entity("PostulantPostulation", b =>
-                {
-                    b.Property<int>("PostulantsId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("PostulationsId")
-                        .HasColumnType("int");
-
-                    b.HasKey("PostulantsId", "PostulationsId");
-
-                    b.HasIndex("PostulationsId");
-
-                    b.ToTable("PostulantPostulation");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Company", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.Role", "CompanyRole")
-                        .WithMany("Companies")
-                        .HasForeignKey("RoleId");
-
-                    b.Navigation("CompanyRole");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.JobOffer", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.Company", "Company")
+                    b.HasOne("Domain.MainModule.Entity.Genre", null)
                         .WithMany()
-                        .HasForeignKey("CompanyId")
+                        .HasForeignKey("GenresId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Company");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Postulant", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.Role", "PostulantRole")
-                        .WithMany("Postulants")
-                        .HasForeignKey("RoleId");
-
-                    b.Navigation("PostulantRole");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Postulation", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.JobOffer", "JobOffer")
-                        .WithMany("Postulations")
-                        .HasForeignKey("JobOfferId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("JobOffer");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.SavedJobOffers", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.JobOffer", "JobOffer")
-                        .WithMany("SavedJobOffers")
-                        .HasForeignKey("JobOfferId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Domain.MainModule.Entity.Postulant", "Postulant")
-                        .WithMany("SavedJobOffers")
-                        .HasForeignKey("PostulantId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("JobOffer");
-
-                    b.Navigation("Postulant");
-                });
-
-            modelBuilder.Entity("JobLabelJobOffer", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.JobLabel", null)
+                    b.HasOne("Domain.MainModule.Entity.Movie", null)
                         .WithMany()
-                        .HasForeignKey("JobLabelsId")
+                        .HasForeignKey("MoviesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.HasOne("Domain.MainModule.Entity.JobOffer", null)
-                        .WithMany()
-                        .HasForeignKey("JobOffersId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("PostulantPostulation", b =>
-                {
-                    b.HasOne("Domain.MainModule.Entity.Postulant", null)
-                        .WithMany()
-                        .HasForeignKey("PostulantsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Domain.MainModule.Entity.Postulation", null)
-                        .WithMany()
-                        .HasForeignKey("PostulationsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.JobOffer", b =>
-                {
-                    b.Navigation("Postulations");
-
-                    b.Navigation("SavedJobOffers");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Postulant", b =>
-                {
-                    b.Navigation("SavedJobOffers");
-                });
-
-            modelBuilder.Entity("Domain.MainModule.Entity.Role", b =>
-                {
-                    b.Navigation("Companies");
-
-                    b.Navigation("Postulants");
                 });
 #pragma warning restore 612, 618
         }

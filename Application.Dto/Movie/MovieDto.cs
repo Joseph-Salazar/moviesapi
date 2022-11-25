@@ -16,6 +16,6 @@ public class MovieDto
     public string TagLine { get; set; }
     public float VoteAverage { get; set; } = 0;
     public int VoteCount { get; set; } = 0;
-    public ICollection<Genre> Genres { get; set; }
+    public ICollection<GenreWithoutMovie> Genres { get; set; }
 
 }

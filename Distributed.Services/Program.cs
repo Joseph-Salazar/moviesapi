@@ -21,10 +21,8 @@ builder.Host.UseSerilog((hostingContext, loggerConfiguration) => loggerConfigura
 
 // Add services to the container.
 builder.Services.AddDbContext<MainContext>(opts =>
-    opts.UseInMemoryDatabase("moviesapi"));
-    //opts.UseMySql("server=localhost;database=moviesdb;user=root;password=root;port=3306",
-    //new MySqlServerVersion(new Version()), b => b.MigrationsAssembly("Distributed.Services")));
-    //opts.UseSqlServer("server=bmoiiwtntdi7cbmqd02u-mysql.services.clever-cloud.com;port=3306;database=bmoiiwtntdi7cbmqd02u;uid=usrgzcojkoczyrt2;password=QRd8zHCQlP2U8CSeTkX3", b=>b.MigrationsAssembly("Distributed.Services")));
+    opts.UseMySql(builder.Configuration["ConnectionStrings:DefaultConnection2"],
+new MySqlServerVersion(new Version()), b => b.MigrationsAssembly("Distributed.Services")));
 
 builder.Services.AddAutoMapper(typeof(AutoMapperConfiguration).GetTypeInfo().Assembly);
 builder.Services.AddDependencyInjectionInterfaces();

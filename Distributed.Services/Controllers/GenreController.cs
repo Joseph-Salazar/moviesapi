@@ -61,6 +61,8 @@ public class GenreController
     /// Permite obtener todos los géneros
     /// </summary>
     [HttpGet("All")]
+    [ProducesResponseType(typeof(JsonResult<GenreDto>), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(JsonResult<string>), StatusCodes.Status400BadRequest)]
     public IActionResult All()
     {
         var result = _genreAppService.ListAll();

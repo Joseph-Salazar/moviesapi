@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lCsItUdc6XgdsNbUQFUXFxvqdicCh5wEMS154yw2CyYv2whiWqAItDuNm9Ce+8HvavTzzBL59duoU1RV2PXrQ==",
+  "dgSpecHash": "fCYkk1YebEkBSITSj1SfrFXr6tKH9HY7GdpHwYfGuzvN+JqQINvrHhXMBtEFgNy5PgB9viQWY1xRDuW6qqf/PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADM\\.nuget\\packages\\mediatypemap.core\\2.3.3\\mediatypemap.core.2.3.3.nupkg.sha512",
     "C:\\Users\\ADM\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

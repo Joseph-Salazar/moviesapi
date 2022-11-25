@@ -11,5 +11,6 @@ public class GenreProfile : Profile
         CreateMap<Genre, GenreDto>().ReverseMap();
         CreateMap<Genre, AddGenreDto>().ReverseMap();
         CreateMap<Genre, UpdateGenreDto>().ReverseMap();
+        CreateMap<Genre, GenreWithoutMovie>().ReverseMap();
     }
 }

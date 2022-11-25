@@ -11,5 +11,6 @@ public class MovieProfile : Profile
         CreateMap<Movie, MovieDto>().ReverseMap();
         CreateMap<Movie, AddMovieDto>().ReverseMap();
         CreateMap<Movie, UpdateMovieDto>().ReverseMap();
+        CreateMap<Movie, MovieWithoutGenre>().ReverseMap();
     }
 }

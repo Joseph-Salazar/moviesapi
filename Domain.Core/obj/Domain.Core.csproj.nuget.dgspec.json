@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\Domain.Core.csproj": {}
+    "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\Domain.Core.csproj": {
+    "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\Domain.Core.csproj",
         "projectName": "Domain.Core",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\Domain.Core.csproj",
+        "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\Domain.Core.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\milestone\\Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
+              "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
+    "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
         "projectName": "Infrastructure.CrossCutting",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

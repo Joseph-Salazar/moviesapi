@@ -4370,11 +4370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADM\\Desktop\\milestone\\Application.IoC\\Application.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.IoC\\Application.IoC.csproj",
       "projectName": "Application.IoC",
-      "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Application.IoC\\Application.IoC.csproj",
+      "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.IoC\\Application.IoC.csproj",
       "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADM\\Desktop\\milestone\\Application.IoC\\obj\\",
+      "outputPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4396,17 +4396,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ADM\\Desktop\\milestone\\Application.MainModule\\Application.MainModule.csproj": {
-              "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Application.MainModule\\Application.MainModule.csproj"
+            "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.MainModule\\Application.MainModule.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.MainModule\\Application.MainModule.csproj"
             },
-            "C:\\Users\\ADM\\Desktop\\milestone\\Application.Security\\Application.Security.csproj": {
-              "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Application.Security\\Application.Security.csproj"
+            "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.Security\\Application.Security.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.Security\\Application.Security.csproj"
             },
-            "C:\\Users\\ADM\\Desktop\\milestone\\Domain.MainModule\\Domain.MainModule.csproj": {
-              "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Domain.MainModule\\Domain.MainModule.csproj"
+            "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.MainModule\\Domain.MainModule.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Domain.MainModule\\Domain.MainModule.csproj"
             },
-            "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.Data.MainModule\\Infrastructure.Data.MainModule.csproj": {
-              "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.Data.MainModule\\Infrastructure.Data.MainModule.csproj"
+            "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.Data.MainModule\\Infrastructure.Data.MainModule.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.Data.MainModule\\Infrastructure.Data.MainModule.csproj"
             }
           }
         }

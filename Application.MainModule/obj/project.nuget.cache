@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9FM9OkM/En7EA1wyzmJy0y/dca/UCzIf7NhHq1MLQwg98My1eE7wQ5UxkUx6WlPjtNEg/cG77iSAEMTVc7w+aQ==",
+  "dgSpecHash": "rclc10NwYTVUHROC+ibY09OYzfhsrHsP3UoKCwjmdM0ExTXExKM5BNOcoKs8Gd9axdex0sijGq88rlL1jae4Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADM\\Desktop\\milestone\\Application.MainModule\\Application.MainModule.csproj",
+  "projectFilePath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Application.MainModule\\Application.MainModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADM\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ADM\\.nuget\\packages\\automapper.extensions.expressionmapping\\5.1.0\\automapper.extensions.expressionmapping.5.1.0.nupkg.sha512",

@@ -4,6 +4,10 @@ namespace Domain.MainModule.Entity;
 
 public class Movie : Entity<int>
 {
+    public Movie()
+    {
+        this.Genres = new HashSet<Genre>();
+    }
     public string Title { get; set; }
     public int Budget { get; set; }
     public string HomePage { get; set; }
@@ -16,5 +20,5 @@ public class Movie : Entity<int>
     public string TagLine { get; set; }
     public float VoteAverage { get; set; } = 0;
     public int VoteCount { get; set; } = 0;
-    public ICollection<Genre> Genres { get; set; } = new List<Genre>();
+    public virtual ICollection<Genre> Genres { get; set; } = new List<Genre>();
 }

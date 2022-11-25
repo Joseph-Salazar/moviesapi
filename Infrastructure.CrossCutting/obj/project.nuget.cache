@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2Q4jjCkBxCVu2tPkL0GdSDeEC9ejQJEYUxE9bUBoljdm+bjqc8x5okfUXMsy6b5bduGWJDgbEINevp48MfmzQ==",
+  "dgSpecHash": "at83TiroUeUxVf7noBFlY5YHIoJy/S2ilyavACoFvG/IQhgNk6mGHn9XpVKan40dsYHlNnSbhXSiCZhatYhfxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADM\\.nuget\\packages\\mediatypemap.core\\2.3.3\\mediatypemap.core.2.3.3.nupkg.sha512",
     "C:\\Users\\ADM\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

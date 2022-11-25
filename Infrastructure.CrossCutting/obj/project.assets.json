@@ -1211,11 +1211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
       "projectName": "Infrastructure.CrossCutting",
-      "projectPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADM\\Desktop\\milestone\\Infrastructure.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\ADM\\Desktop\\moviesapi\\Infrastructure.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

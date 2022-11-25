@@ -9,5 +9,4 @@ public interface IGenreAppService
     Task<string> Update(UpdateGenreDto updateGenreDto);
     Task<string> Add(AddGenreDto addGenreDto);
     List<GenreDto> ListAll();
-
 }

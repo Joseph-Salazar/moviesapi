@@ -18,7 +18,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace Application.MainModule;
 
-public class MovieAppService: BaseAppService, IMovieAppService
+public class MovieAppService : BaseAppService, IMovieAppService
 {
     private readonly IMovieRepository _movieRepository;
     private readonly IGenreRepository _genreRepository;
@@ -87,6 +87,8 @@ public class MovieAppService: BaseAppService, IMovieAppService
 
         return MessageConst.ProcessSuccessfullyCompleted;
     }
+
+    
 
     public List<MovieDto> ListAll()
     {
