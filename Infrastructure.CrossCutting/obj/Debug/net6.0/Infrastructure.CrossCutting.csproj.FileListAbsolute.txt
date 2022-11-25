@@ -1,0 +1,72 @@
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.deps.json
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Infrastructure.CrossCutting.dll

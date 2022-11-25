@@ -1,0 +1,90 @@
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll
+C:\Users\ADM\Desktop\milestone\Application.Security\bin\Debug\net6.0\Application.Security.deps.json
+C:\Users\ADM\Desktop\milestone\Application.Security\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\milestone\Application.Security\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\milestone\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Application.Security\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.AssemblyInfo.cs
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.csproj.CopyComplete
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\refint\Application.Security.dll
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\milestone\Application.Security\obj\Debug\net6.0\ref\Application.Security.dll

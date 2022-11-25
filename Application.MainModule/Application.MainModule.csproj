@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Hangfire.AspNetCore" Version="1.7.31" />
+        <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+        <PackageReference Include="RestSharp" Version="108.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Application.Core\Application.Core.csproj" />
+        <ProjectReference Include="..\Application.Dto\Application.Dto.csproj" />
+        <ProjectReference Include="..\Domain.MainModule\Domain.MainModule.csproj" />
+    </ItemGroup>
+
+</Project>

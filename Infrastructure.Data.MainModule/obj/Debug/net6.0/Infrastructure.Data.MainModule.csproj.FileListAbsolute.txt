@@ -1,0 +1,114 @@
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.AssemblyInfo.cs
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\refint\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.deps.json
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.Data.MainModule.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\Infrastructure.Data.MainModule.csproj.CopyComplete
+C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\obj\Debug\net6.0\ref\Infrastructure.Data.MainModule.dll

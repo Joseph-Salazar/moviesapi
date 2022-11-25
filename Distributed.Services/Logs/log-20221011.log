@@ -1,0 +1,182 @@
+2022-10-11 23:00:41.833 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:00:41.875 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:00:42.106 -05:00 [INF] Server desktop-ckst1um:32588:545dc175 successfully announced in 199,1559 ms
+2022-10-11 23:00:42.110 -05:00 [INF] Server desktop-ckst1um:32588:545dc175 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:00:42.215 -05:00 [INF] Server desktop-ckst1um:32588:545dc175 all the dispatchers started
+2022-10-11 23:01:25.955 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:01:25.985 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:01:26.230 -05:00 [INF] Server desktop-ckst1um:12224:22d12a60 successfully announced in 207,6626 ms
+2022-10-11 23:01:26.234 -05:00 [INF] Server desktop-ckst1um:12224:22d12a60 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:01:26.299 -05:00 [INF] Server desktop-ckst1um:12224:22d12a60 all the dispatchers started
+2022-10-11 23:02:50.556 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:02:50.591 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:02:50.825 -05:00 [INF] Server desktop-ckst1um:23588:7560d417 successfully announced in 204,5754 ms
+2022-10-11 23:02:50.832 -05:00 [INF] Server desktop-ckst1um:23588:7560d417 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:02:50.948 -05:00 [INF] Server desktop-ckst1um:23588:7560d417 all the dispatchers started
+2022-10-11 23:08:22.133 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:08:22.164 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:08:22.356 -05:00 [INF] Server desktop-ckst1um:30488:1f9c51ca successfully announced in 163,6841 ms
+2022-10-11 23:08:22.361 -05:00 [INF] Server desktop-ckst1um:30488:1f9c51ca is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:08:22.440 -05:00 [INF] Server desktop-ckst1um:30488:1f9c51ca all the dispatchers started
+2022-10-11 23:08:39.524 -05:00 [ERR] Missing type map configuration or unsupported mapping.
+
+Mapping types:
+PostulantDto -> Postulant
+Application.Dto.Postulant.PostulantDto -> Domain.MainModule.Entity.Postulant
+   at lambda_method29(Closure , PostulantDto , Postulant , ResolutionContext )
+   at Application.MainModule.PostulantAppService.Register(RegisterPostulantDto registerPostulantDto) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.MainModule\PostulantAppService.cs:line 90
+   at Distributed.Services.Controllers.PostulantController.RegisterPostulant(RegisterPostulantDto register) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Distributed.Services\Controllers\PostulantController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-10-11 23:09:04.164 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:09:04.192 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:09:04.373 -05:00 [INF] Server desktop-ckst1um:16968:9f082abc successfully announced in 154,8523 ms
+2022-10-11 23:09:04.378 -05:00 [INF] Server desktop-ckst1um:16968:9f082abc is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:09:04.439 -05:00 [INF] Server desktop-ckst1um:16968:9f082abc all the dispatchers started
+2022-10-11 23:09:14.465 -05:00 [ERR] An exception occurred in the database while saving changes for context type 'Infrastructure.Data.MainModule.Context.MainContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: Required properties '{'FirstName', 'LastName', 'ProfilePicture'}' are missing for the instance of entity type 'Postulant'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the entity key value.
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.ThrowNullabilityErrorException(IUpdateEntry entry, IList`1 nullabilityErrors)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: Required properties '{'FirstName', 'LastName', 'ProfilePicture'}' are missing for the instance of entity type 'Postulant'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the entity key value.
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.ThrowNullabilityErrorException(IUpdateEntry entry, IList`1 nullabilityErrors)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-10-11 23:09:15.773 -05:00 [ERR] Required properties '{'FirstName', 'LastName', 'ProfilePicture'}' are missing for the instance of entity type 'Postulant'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the entity key value.
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.ThrowNullabilityErrorException(IUpdateEntry entry, IList`1 nullabilityErrors)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Data.MainModule.Context.MainContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.Data.MainModule\Context\MainContext.cs:line 59
+   at Application.MainModule.PostulantAppService.Register(RegisterPostulantDto registerPostulantDto) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.MainModule\PostulantAppService.cs:line 92
+   at Distributed.Services.Controllers.PostulantController.RegisterPostulant(RegisterPostulantDto register) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Distributed.Services\Controllers\PostulantController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-10-11 23:16:38.235 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:16:38.263 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:16:38.506 -05:00 [INF] Server desktop-ckst1um:30212:f843c8a2 successfully announced in 216,6573 ms
+2022-10-11 23:16:38.511 -05:00 [INF] Server desktop-ckst1um:30212:f843c8a2 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:16:38.573 -05:00 [INF] Server desktop-ckst1um:30212:f843c8a2 all the dispatchers started
+2022-10-11 23:18:54.742 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:18:54.770 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:18:55.008 -05:00 [INF] Server desktop-ckst1um:20956:39975a7c successfully announced in 204,0168 ms
+2022-10-11 23:18:55.015 -05:00 [INF] Server desktop-ckst1um:20956:39975a7c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:18:55.110 -05:00 [INF] Server desktop-ckst1um:20956:39975a7c all the dispatchers started
+2022-10-11 23:23:40.891 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:23:40.919 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:23:41.102 -05:00 [INF] Server desktop-ckst1um:30796:655afda0 successfully announced in 156,664 ms
+2022-10-11 23:23:41.108 -05:00 [INF] Server desktop-ckst1um:30796:655afda0 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:23:41.192 -05:00 [INF] Server desktop-ckst1um:30796:655afda0 all the dispatchers started
+2022-10-11 23:24:14.722 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:24:14.742 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:24:14.814 -05:00 [INF] Server desktop-ckst1um:4536:b67ad4af successfully announced in 64,0979 ms
+2022-10-11 23:24:14.816 -05:00 [INF] Server desktop-ckst1um:4536:b67ad4af is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:24:14.820 -05:00 [INF] Server desktop-ckst1um:4536:b67ad4af all the dispatchers started
+2022-10-11 23:24:29.871 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:24:29.908 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:24:30.115 -05:00 [INF] Server desktop-ckst1um:23096:65cec019 successfully announced in 176,2091 ms
+2022-10-11 23:24:30.120 -05:00 [INF] Server desktop-ckst1um:23096:65cec019 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:24:30.222 -05:00 [INF] Server desktop-ckst1um:23096:65cec019 all the dispatchers started
+2022-10-11 23:26:18.241 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:26:18.277 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:26:18.512 -05:00 [INF] Server desktop-ckst1um:17328:0c4c94cf successfully announced in 200,3772 ms
+2022-10-11 23:26:18.541 -05:00 [INF] Server desktop-ckst1um:17328:0c4c94cf is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:26:18.660 -05:00 [INF] Server desktop-ckst1um:17328:0c4c94cf all the dispatchers started
+2022-10-11 23:30:30.866 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:30:30.893 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:30:31.070 -05:00 [INF] Server desktop-ckst1um:15432:51c19796 successfully announced in 151,3983 ms
+2022-10-11 23:30:31.131 -05:00 [INF] Server desktop-ckst1um:15432:51c19796 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:30:31.216 -05:00 [INF] Server desktop-ckst1um:15432:51c19796 all the dispatchers started
+2022-10-11 23:52:40.880 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-10-11 23:52:40.907 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-10-11 23:52:41.077 -05:00 [INF] Server desktop-ckst1um:24540:0077e0db successfully announced in 142,7477 ms
+2022-10-11 23:52:41.080 -05:00 [INF] Server desktop-ckst1um:24540:0077e0db is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-10-11 23:52:41.143 -05:00 [INF] Server desktop-ckst1um:24540:0077e0db all the dispatchers started

@@ -1,0 +1,126 @@
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\SigOne2\Services\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\JobagAPINet\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\apijobagnetantesde\JobagAPINet - copia\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\jobag antes de la catastrofe\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Application.Security.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Domain.Core.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Domain.MainModule.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Application.Security.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Domain.MainModule.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Domain.Core.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\bin\Debug\net6.0\Infrastructure.CrossCutting.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CopyComplete
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+C:\Users\ADM\Desktop\milestone\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll

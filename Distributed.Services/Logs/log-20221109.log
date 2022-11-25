@@ -1,0 +1,9 @@
+2022-11-09 10:03:55.922 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-09 10:03:55.971 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-09 10:03:56.200 -05:00 [INF] Server desktop-ckst1um:25920:ac2b9073 successfully announced in 191,2809 ms
+2022-11-09 10:03:56.206 -05:00 [INF] Server desktop-ckst1um:25920:ac2b9073 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-09 10:03:56.288 -05:00 [INF] Server desktop-ckst1um:25920:ac2b9073 all the dispatchers started

@@ -1,0 +1,265 @@
+2022-11-17 20:05:36.497 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:05:36.555 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:05:36.804 -05:00 [INF] Server desktop-ckst1um:17944:4b541677 successfully announced in 215,1379 ms
+2022-11-17 20:05:36.809 -05:00 [INF] Server desktop-ckst1um:17944:4b541677 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:05:36.892 -05:00 [INF] Server desktop-ckst1um:17944:4b541677 all the dispatchers started
+2022-11-17 20:18:43.528 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:18:43.557 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:18:43.741 -05:00 [INF] Server desktop-ckst1um:4468:9064ffb6 successfully announced in 152,7922 ms
+2022-11-17 20:18:43.745 -05:00 [INF] Server desktop-ckst1um:4468:9064ffb6 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:18:43.807 -05:00 [INF] Server desktop-ckst1um:4468:9064ffb6 all the dispatchers started
+2022-11-17 20:47:06.172 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:47:06.206 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:47:06.437 -05:00 [INF] Server desktop-ckst1um:28080:abe6ea40 successfully announced in 201,0017 ms
+2022-11-17 20:47:06.441 -05:00 [INF] Server desktop-ckst1um:28080:abe6ea40 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:47:06.526 -05:00 [INF] Server desktop-ckst1um:28080:abe6ea40 all the dispatchers started
+2022-11-17 20:47:30.042 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:47:30.070 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:47:30.251 -05:00 [INF] Server desktop-ckst1um:17224:23a7e515 successfully announced in 152,6485 ms
+2022-11-17 20:47:30.257 -05:00 [INF] Server desktop-ckst1um:17224:23a7e515 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:47:30.343 -05:00 [INF] Server desktop-ckst1um:17224:23a7e515 all the dispatchers started
+2022-11-17 20:48:17.940 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:48:17.980 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:48:18.170 -05:00 [INF] Server desktop-ckst1um:29408:b1926ebd successfully announced in 161,4703 ms
+2022-11-17 20:48:18.176 -05:00 [INF] Server desktop-ckst1um:29408:b1926ebd is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:48:18.244 -05:00 [INF] Server desktop-ckst1um:29408:b1926ebd all the dispatchers started
+2022-11-17 20:49:10.132 -05:00 [WRN] El correo ya se encuentra registrado.
+   at Application.MainModule.PostulantAppService.Register(RegisterPostulantDto registerPostulantDto) in C:\Users\ADM\Desktop\milestone\Application.MainModule\PostulantAppService.cs:line 79
+   at Distributed.Services.Controllers.PostulantController.RegisterPostulant(RegisterPostulantDto register) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\PostulantController.cs:line 32
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 20:51:32.745 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:51:32.773 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:51:32.965 -05:00 [INF] Server desktop-ckst1um:15364:725aed51 successfully announced in 162,0178 ms
+2022-11-17 20:51:32.973 -05:00 [INF] Server desktop-ckst1um:15364:725aed51 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:51:33.118 -05:00 [INF] Server desktop-ckst1um:15364:725aed51 all the dispatchers started
+2022-11-17 20:51:56.186 -05:00 [WRN] El registro seleccionado no es válido.
+   at Application.MainModule.PostulantAppService.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Application.MainModule\PostulantAppService.cs:line 36
+   at Distributed.Services.Controllers.PostulantController.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\PostulantController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 20:52:05.855 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:52:05.884 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:52:06.074 -05:00 [INF] Server desktop-ckst1um:29324:50b85b15 successfully announced in 160,2488 ms
+2022-11-17 20:52:06.079 -05:00 [INF] Server desktop-ckst1um:29324:50b85b15 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:52:06.139 -05:00 [INF] Server desktop-ckst1um:29324:50b85b15 all the dispatchers started
+2022-11-17 20:54:03.702 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:54:03.730 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:54:03.919 -05:00 [INF] Server desktop-ckst1um:13756:4e26a11e successfully announced in 159,2037 ms
+2022-11-17 20:54:03.924 -05:00 [INF] Server desktop-ckst1um:13756:4e26a11e is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:54:03.991 -05:00 [INF] Server desktop-ckst1um:13756:4e26a11e all the dispatchers started
+2022-11-17 20:55:58.370 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:55:58.405 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:55:58.606 -05:00 [INF] Server desktop-ckst1um:4964:77aae386 successfully announced in 168,22 ms
+2022-11-17 20:55:58.610 -05:00 [INF] Server desktop-ckst1um:4964:77aae386 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:55:58.677 -05:00 [INF] Server desktop-ckst1um:4964:77aae386 all the dispatchers started
+2022-11-17 20:56:58.828 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:56:58.858 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:56:59.070 -05:00 [INF] Server desktop-ckst1um:6748:f514d080 successfully announced in 184,8856 ms
+2022-11-17 20:56:59.076 -05:00 [INF] Server desktop-ckst1um:6748:f514d080 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:56:59.157 -05:00 [INF] Server desktop-ckst1um:6748:f514d080 all the dispatchers started
+2022-11-17 20:58:04.279 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:58:04.309 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:58:04.495 -05:00 [INF] Server desktop-ckst1um:15224:ac39adb7 successfully announced in 153,8573 ms
+2022-11-17 20:58:04.499 -05:00 [INF] Server desktop-ckst1um:15224:ac39adb7 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:58:04.571 -05:00 [INF] Server desktop-ckst1um:15224:ac39adb7 all the dispatchers started
+2022-11-17 20:59:17.659 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 20:59:17.689 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 20:59:17.915 -05:00 [INF] Server desktop-ckst1um:30500:effe34b3 successfully announced in 188,443 ms
+2022-11-17 20:59:17.919 -05:00 [INF] Server desktop-ckst1um:30500:effe34b3 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 20:59:18.018 -05:00 [INF] Server desktop-ckst1um:30500:effe34b3 all the dispatchers started
+2022-11-17 21:14:07.707 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 21:14:07.742 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 21:14:07.995 -05:00 [INF] Server desktop-ckst1um:32328:e4bea9f5 successfully announced in 195,3041 ms
+2022-11-17 21:14:08.000 -05:00 [INF] Server desktop-ckst1um:32328:e4bea9f5 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 21:14:08.061 -05:00 [INF] Server desktop-ckst1um:32328:e4bea9f5 all the dispatchers started
+2022-11-17 21:16:02.749 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 21:16:02.777 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 21:16:02.997 -05:00 [INF] Server desktop-ckst1um:21088:83a27e3a successfully announced in 191,8074 ms
+2022-11-17 21:16:03.001 -05:00 [INF] Server desktop-ckst1um:21088:83a27e3a is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 21:16:03.056 -05:00 [INF] Server desktop-ckst1um:21088:83a27e3a all the dispatchers started
+2022-11-17 21:16:20.268 -05:00 [WRN] El registro seleccionado no es válido.
+   at Application.MainModule.ChoreAppService.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Application.MainModule\ChoreAppService.cs:line 46
+   at Distributed.Services.Controllers.ChoreController.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\ChoreController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 21:19:16.703 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 21:19:16.732 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 21:19:16.920 -05:00 [INF] Server desktop-ckst1um:22192:dde0e296 successfully announced in 156,4947 ms
+2022-11-17 21:19:16.925 -05:00 [INF] Server desktop-ckst1um:22192:dde0e296 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 21:19:16.994 -05:00 [INF] Server desktop-ckst1um:22192:dde0e296 all the dispatchers started
+2022-11-17 21:19:35.583 -05:00 [WRN] El registro seleccionado no es válido.
+   at Application.MainModule.ChoreAppService.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Application.MainModule\ChoreAppService.cs:line 46
+   at Distributed.Services.Controllers.ChoreController.GetById(Int32 postulantId) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\ChoreController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 21:35:52.292 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 21:35:52.333 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 21:35:52.536 -05:00 [INF] Server desktop-ckst1um:8836:de423385 successfully announced in 166,3905 ms
+2022-11-17 21:35:52.541 -05:00 [INF] Server desktop-ckst1um:8836:de423385 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 21:35:52.612 -05:00 [INF] Server desktop-ckst1um:8836:de423385 all the dispatchers started
+2022-11-17 21:36:01.871 -05:00 [ERR] Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at Infrastructure.Data.MainModule.Repository.GenericRepository`2.DeleteAsync(TEntity entity, IValidator`1[] validaciones) in C:\Users\ADM\Desktop\milestone\Infrastructure.Data.MainModule\Repository\GenericRepository.cs:line 111
+   at Application.MainModule.ChoreAppService.Delete(Int32 choreId) in C:\Users\ADM\Desktop\milestone\Application.MainModule\ChoreAppService.cs:line 78
+   at Distributed.Services.Controllers.ChoreController.Delete(Int32 choreId) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\ChoreController.cs:line 69
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 21:36:36.150 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-17 21:36:36.178 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-17 21:36:36.406 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 successfully announced in 198,5299 ms
+2022-11-17 21:36:36.410 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-17 21:36:36.495 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 all the dispatchers started
+2022-11-17 21:36:42.438 -05:00 [WRN] El registro seleccionado no es válido.
+   at Application.MainModule.ChoreAppService.Delete(Int32 choreId) in C:\Users\ADM\Desktop\milestone\Application.MainModule\ChoreAppService.cs:line 79
+   at Distributed.Services.Controllers.ChoreController.Delete(Int32 choreId) in C:\Users\ADM\Desktop\milestone\Distributed.Services\Controllers\ChoreController.cs:line 69
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Infrastructure.CrossCutting.Logging.ExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\ADM\Desktop\milestone\Infrastructure.CrossCutting\Logging\ExceptionHandlingMiddleware.cs:line 28
+2022-11-17 21:49:35.599 -05:00 [WRN] Stopping the server due to DomainUnload or ProcessExit event...
+2022-11-17 21:49:35.599 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 caught stopping signal...
+2022-11-17 21:49:35.603 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 caught stopped signal...
+2022-11-17 21:49:35.610 -05:00 [WRN] Server desktop-ckst1um:33656:efa1a7c4 caught shutdown signal...
+2022-11-17 21:49:35.627 -05:00 [WRN] Server desktop-ckst1um:33656:efa1a7c4 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2022-11-17 21:49:35.657 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 successfully reported itself as stopped in 0,3479 ms
+2022-11-17 21:49:35.657 -05:00 [INF] Server desktop-ckst1um:33656:efa1a7c4 has been stopped in total 56,7515 ms

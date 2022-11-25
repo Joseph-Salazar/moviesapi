@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Distributed.Services</name>
+    </assembly>
+    <members>
+        <member name="M:Distributed.Services.Controllers.GenreController.GetById(System.Int32)">
+            <summary>
+            Permite obtener un género por id
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.GenreController.Update(Application.Dto.Postulant.UpdateGenreDto)">
+            <summary>
+            Permite actualizar un género
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.GenreController.Add(Application.Dto.Postulant.AddGenreDto)">
+            <summary>
+            Permite agregar un género
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.GenreController.All">
+            <summary>
+            Permite obtener todos los géneros
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.GetById(System.Int32)">
+            <summary>
+            Permite obtener una película por id
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.Update(Application.Dto.Postulant.UpdateMovieDto)">
+            <summary>
+            Permite actualizar una película
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.Add(Application.Dto.Postulant.AddMovieDto)">
+            <summary>
+            Permite agregar una película
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.AddGenre(System.Int32,System.Int32)">
+            <summary>
+            Permite agregar un género a una película
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.All">
+            <summary>
+            Permite obtener todas las películas
+            </summary>
+        </member>
+    </members>
+</doc>
