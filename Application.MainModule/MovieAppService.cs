@@ -88,7 +88,17 @@ public class MovieAppService : BaseAppService, IMovieAppService
         return MessageConst.ProcessSuccessfullyCompleted;
     }
 
-    
+    public async Task<string> Delete(int movieId)
+    {
+        var movieDomain = await _movieRepository.GetAsync(movieId);
+
+        if (movieDomain is null) throw new WarningException(MessageConst.InvalidSelection);
+
+        await _movieRepository.DeleteAsync(movieDomain);
+        await UnitOfWork.SaveChangesAsync();
+
+        return MessageConst.ProcessSuccessfullyCompleted;
+    }
 
     public List<MovieDto> ListAll()
     {

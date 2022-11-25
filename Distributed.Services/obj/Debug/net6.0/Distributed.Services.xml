@@ -19,6 +19,11 @@
             Permite agregar un género
             </summary>
         </member>
+        <member name="M:Distributed.Services.Controllers.GenreController.Delete(System.Int32)">
+            <summary>
+            Permite borrar un género
+            </summary>
+        </member>
         <member name="M:Distributed.Services.Controllers.GenreController.All">
             <summary>
             Permite obtener todos los géneros
@@ -42,6 +47,11 @@
         <member name="M:Distributed.Services.Controllers.MovieController.AddGenre(System.Int32,System.Int32)">
             <summary>
             Permite agregar un género a una película
+            </summary>
+        </member>
+        <member name="M:Distributed.Services.Controllers.MovieController.Delete(System.Int32)">
+            <summary>
+            Permite borrar una película
             </summary>
         </member>
         <member name="M:Distributed.Services.Controllers.MovieController.All">

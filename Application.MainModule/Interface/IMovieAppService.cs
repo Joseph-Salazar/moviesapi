@@ -9,5 +9,6 @@ public interface IMovieAppService
     Task<string> Update(UpdateMovieDto updateMovieDto);
     Task<string> Add(AddMovieDto addMovieDto);
     Task<string> AddGenreToMovie(int movieId, int genreId);
+    Task<string> Delete(int movieId);
     List<MovieDto> ListAll();
 }

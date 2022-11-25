@@ -70,6 +70,18 @@ public class GenreAppService : BaseAppService, IGenreAppService
         return MessageConst.ProcessSuccessfullyCompleted;
     }
 
+    public async Task<string> Delete(int movieId)
+    {
+        var movieDomain = await _genreRepository.GetAsync(movieId);
+
+        if (movieDomain is null) throw new WarningException(MessageConst.InvalidSelection);
+
+        await _genreRepository.DeleteAsync(movieDomain);
+        await UnitOfWork.SaveChangesAsync();
+
+        return MessageConst.ProcessSuccessfullyCompleted;
+    }
+
     public List<GenreDto> ListAll()
     {
         var result = _genreRepository.GetAll().ToList();
