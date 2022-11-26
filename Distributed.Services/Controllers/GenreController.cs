@@ -30,7 +30,7 @@ public class GenreController
     public async Task<IActionResult> GetById(string genreId)
     {
         var result = await _genreAppService.GetById(genreId);
-        return new OkObjectResult(new JsonResult<GenreDto>(result));
+        return new OkObjectResult(result);
     }
 
     /// <summary>
