@@ -27,7 +27,7 @@ public class GenreController
     [HttpGet("Get")]
     [ProducesResponseType(typeof(JsonResult<GenreDto>), StatusCodes.Status200OK)]
     [ProducesResponseType(typeof(JsonResult<string>), StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> GetById(int genreId)
+    public async Task<IActionResult> GetById(string genreId)
     {
         var result = await _genreAppService.GetById(genreId);
         return new OkObjectResult(new JsonResult<GenreDto>(result));

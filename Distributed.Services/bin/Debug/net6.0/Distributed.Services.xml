@@ -4,7 +4,7 @@
         <name>Distributed.Services</name>
     </assembly>
     <members>
-        <member name="M:Distributed.Services.Controllers.GenreController.GetById(System.Int32)">
+        <member name="M:Distributed.Services.Controllers.GenreController.GetById(System.String)">
             <summary>
             Permite obtener un género por id
             </summary>

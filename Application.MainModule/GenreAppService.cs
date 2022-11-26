@@ -30,13 +30,13 @@ public class GenreAppService : BaseAppService, IGenreAppService
         _configuration = serviceProvider.GetService<IConfiguration>() ?? throw new InvalidOperationException();
     }
 
-    public async Task<GenreDto> GetById(int genreId)
+    public async Task<GenreDto> GetById(string genreId)
     {
-        if (genreId == 0)
+        if (genreId.IsNullOrEmpty())
             throw new WarningException(MessageConst.InvalidSelection);
 
         var genreDto = await _genreRepository
-            .Find(p => p.Id == genreId)
+            .Find(p => p.GenreName == genreId)
             .ProjectTo<GenreDto>(Mapper.ConfigurationProvider)
             .FirstOrDefaultAsync();
 
