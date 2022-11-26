@@ -7,3 +7,21 @@
 2022-11-26 11:08:55.576 -05:00 [INF] Server desktop-ckst1um:31184:e959080d successfully announced in 183,7258 ms
 2022-11-26 11:08:55.582 -05:00 [INF] Server desktop-ckst1um:31184:e959080d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
 2022-11-26 11:08:55.670 -05:00 [INF] Server desktop-ckst1um:31184:e959080d all the dispatchers started
+2022-11-26 11:23:02.784 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-26 11:23:02.821 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-26 11:23:03.097 -05:00 [INF] Server desktop-ckst1um:10884:dbf6b8ac successfully announced in 229,7748 ms
+2022-11-26 11:23:03.105 -05:00 [INF] Server desktop-ckst1um:10884:dbf6b8ac is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-26 11:23:03.199 -05:00 [INF] Server desktop-ckst1um:10884:dbf6b8ac all the dispatchers started
+2022-11-26 11:30:19.316 -05:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2022-11-26 11:30:19.349 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2022-11-26 11:30:19.549 -05:00 [INF] Server desktop-ckst1um:36324:e1daf64c successfully announced in 166,5109 ms
+2022-11-26 11:30:19.554 -05:00 [INF] Server desktop-ckst1um:36324:e1daf64c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2022-11-26 11:30:19.673 -05:00 [INF] Server desktop-ckst1um:36324:e1daf64c all the dispatchers started
